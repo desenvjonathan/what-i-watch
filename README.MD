@@ -1,4 +1,4 @@
-# Projeto What I What
+# Projeto What I Watch
 
 ![preview](./.github/preview.png)
 

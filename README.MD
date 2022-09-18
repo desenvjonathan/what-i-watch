@@ -4,6 +4,7 @@
 
 
  Projeto pessoal What I Watch (O que eu assisti) construído a partir de um desafio criado pela Rocketseat.
+[Clique aqui para acessar](https://desenvjonathan.github.io/what-i-watch/)
 
 ## Atualizações Futuras 
 Esse é um projeto que será atualizado sempre que eu assistir um filme, série ou anime, para colocá-lo na lista de forma educativa, e sempre manter contato com as informações aprendidas.
@@ -14,8 +15,7 @@ Esse é um projeto que será atualizado sempre que eu assistir um filme, série 
 
 - HTML
 - CSS 
-- Git
-- Github
+- Git e Github
 
 
 ## Contatos

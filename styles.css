@@ -9,11 +9,14 @@ ul {
 }
 
 body {
-    background-image: url(./assets/bg.png);
+    background-image: url(./assets/bg.gif);
     background-position: top center;
-    background-size: 100% auto;
+    background-size: cover;
     background-color: #121214;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
+
 
 body * {
     font-family: 'Montserrat', sans-serif;
@@ -93,10 +96,12 @@ section ul {
 
 section ul li {
     transition: transform .3s;
+    opacity: 0.5;
 }
 
 section ul li:hover {
-    transform: scale(1.1)
+    transform: scale(1.1);
+    opacity: 1;
 }
 
 .movie-list img {

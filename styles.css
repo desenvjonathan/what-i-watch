@@ -9,7 +9,7 @@ ul {
 }
 
 body {
-    background-image: url(./assets/bg.gif);
+    background-image: url(./assets/bg-cosmos.gif);
     background-position: top center;
     background-size: cover;
     background-color: #121214;
@@ -31,7 +31,7 @@ header {
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #C91842 0%, #5CC2E2 100%),
+    background-image: linear-gradient(90deg, #0da23f 0%, #11798d 100%),
     linear-gradient(0deg, #262629, #262629);
     border-radius: 50%;
     display: flex;
@@ -60,7 +60,7 @@ main {
 
 section {
     color: white;
-    background-image: linear-gradient(90deg, #C91842 0%, #5CC2E2 100%),
+    background-image: linear-gradient(90deg, #0da23f 0%, #11798d 100%),
     linear-gradient(0deg, #262629, #262629);
     padding-top: 4px;
     border-radius: 10px;
